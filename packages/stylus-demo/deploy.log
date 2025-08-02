@@ -1,0 +1,10 @@
+Checking connection to Arbitrum Sepolia...
+Connected to Arbitrum Sepolia!
+Deploying the Stylus contract using cargo stylus...
+Stylus contract deployed successfully!
+Transaction hash: 0xd23766b9ab170645b8e2a3bce7b3f2cd1a23b7b19a3fcf2914b6cba7e155726e
+Contract address: 0x57f9041d3f205f77fc1ad5e6274fcc316d2c0836
+Generating ABI for the deployed contract...
+ABI generated successfully and saved to stylus-contract.abi
+Deployment info saved to build/stylus-deployment-info.json
+Deployment completed successfully on Arbitrum Sepolia!
